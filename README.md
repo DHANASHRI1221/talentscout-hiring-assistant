@@ -1,5 +1,5 @@
 
-# TalentScout AI Hiring Assistant 🤖
+# TalentScout AI Hiring Assistant | LLM-based Chatbot for Technical Screening 🤖
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![LLM](https://img.shields.io/badge/LLM-Groq-green)
