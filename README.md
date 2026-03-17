@@ -1,5 +1,8 @@
 
 # TalentScout AI Hiring Assistant 🤖
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![LLM](https://img.shields.io/badge/LLM-Groq-green)
 
 An AI-powered technical hiring assistant chatbot designed to automate the initial screening process for technical candidates. The chatbot collects candidate details, generates technical interview questions based on their tech stack, evaluates responses using an LLM, and provides a final screening decision.
 
@@ -247,6 +250,9 @@ streamlit run app.py
 - Better UI/UX  
 
 ---
+## 💡 Why This Project
+
+This project demonstrates how LLMs can be used to automate real-world hiring workflows, reducing manual effort and improving candidate screening efficiency.
 
 ## 👩‍💻 Author
 
