@@ -1,10 +1,18 @@
-# TalentScout AI Hiring Assistant 🤖
+<img width="1856" height="871" alt="image" src="https://github.com/user-attachments/assets/6fe1a114-da1d-402c-b220-645842a31839" /># TalentScout AI Hiring Assistant 🤖
 
 An AI-powered technical hiring assistant chatbot designed to automate the initial screening process for technical candidates. The chatbot collects candidate details, generates technical interview questions based on their tech stack, evaluates responses using an LLM, and provides a final screening decision.
 
 This project demonstrates prompt engineering, LLM integration, conversational AI, and automated candidate evaluation.
 
 ---
+## 🌐 Live Demo
+
+👉 https://talentscout-hiring-assistant-l4tgs9ecmask6gppnhadpa.streamlit.app/
+
+
+
+---
+
 
 ## 🚀 Project Overview
 
@@ -184,12 +192,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
-
-👉 https://talentscout-hiring-assistant-l4tgs9ecmask6gppnhadpa.streamlit.app/
-
----
-
 ## 🔐 Security
 
 - API keys are stored securely  
@@ -198,6 +200,24 @@ streamlit run app.py
 
 ---
 
+## 🚧 Challenges Faced
+
+- Handling API errors and rate limits  
+- Maintaining conversation state in Streamlit  
+- Designing structured prompts for consistent LLM output  
+- Parsing LLM responses reliably  
+
+---
+
+## 📚 Learnings
+
+- Prompt engineering for structured outputs  
+- Integrating LLM APIs into applications  
+- Building conversational workflows  
+- Deploying AI apps using Streamlit Cloud  
+- Implementing NLP-based similarity detection  
+
+---
 ## 🚧 Future Improvements
 
 - Multilingual chatbot  
