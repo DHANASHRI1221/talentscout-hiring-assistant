@@ -31,14 +31,13 @@ TalentScout is a fictional recruitment agency specializing in technology placeme
 ---
 
 ### 🧠 Technical Question Generation
-Based on the technologies provided by the candidate, the chatbot generates technical interview questions dynamically.
+Based on the technologies provided by the candidate, the chatbot generates technical interview questions dynamically. The system generates multiple interview questions for each technology.
 
 Example tech stack:
-
 ```
 Python, Java, C++
 ```
-The system generates multiple interview questions for each technology.
+
 ---
 
 ### 📊 Answer Evaluation
@@ -77,9 +76,10 @@ Originality Score: 92.62%
 
 ```
 Average Score: 7.9/10  
-Final Verdict: PASS  
+Final Verdict: PASS
+Congratulations! You are moved to the next round.
 ```
-Candidates who pass move to the next stage of the recruitment process.
+
 ---
 
 ## 🏗️ Architecture
