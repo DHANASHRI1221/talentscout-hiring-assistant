@@ -1,4 +1,4 @@
-<img width="1856" height="871" alt="image" src="https://github.com/user-attachments/assets/6fe1a114-da1d-402c-b220-645842a31839" /># TalentScout AI Hiring Assistant 🤖
+# TalentScout AI Hiring Assistant 🤖
 
 An AI-powered technical hiring assistant chatbot designed to automate the initial screening process for technical candidates. The chatbot collects candidate details, generates technical interview questions based on their tech stack, evaluates responses using an LLM, and provides a final screening decision.
 
@@ -9,6 +9,15 @@ This project demonstrates prompt engineering, LLM integration, conversational AI
 
 👉 https://talentscout-hiring-assistant-l4tgs9ecmask6gppnhadpa.streamlit.app/
 
+## 🎥 Demo Video
+
+Click below to watch the full demo:
+
+<p align="center">
+  <a href="https://www.loom.com/share/7677ddffec644b8fb1c145d76b042aac">
+    <img src="Images/Thumbnail.png" width="600">
+  </a>
+</p>
 
 
 ---
