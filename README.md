@@ -258,8 +258,6 @@ This project demonstrates how LLMs can be used to automate real-world hiring wor
 
 Dhanashri Shivdas 
 
----
 
-## 📌 Note
 
-This project was developed as part of an AI/ML Intern assignment.
+
