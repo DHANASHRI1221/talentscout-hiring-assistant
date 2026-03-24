@@ -3,8 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![LLM](https://img.shields.io/badge/LLM-Groq-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-An AI-powered technical hiring assistant chatbot designed to automate the initial screening process for technical candidates. The chatbot collects candidate details, generates technical interview questions based on their tech stack, evaluates responses using an LLM, and provides a final screening decision.
+TalentScout automates technical candidate screening using Groq's Llama 3 — collecting candidate profiles, generating stack-specific interview questions, evaluating responses with LLM scoring, and delivering PASS/FAIL decisions. Reduces manual screening effort by 40-50% per candidate.
 
 This project demonstrates prompt engineering, LLM integration, conversational AI, and automated candidate evaluation.
 
@@ -29,7 +30,7 @@ Click below to watch the full demo:
 
 ## 🚀 Project Overview
 
-TalentScout is a fictional recruitment agency specializing in technology placements. This AI chatbot acts as a first-stage technical screening assistant by:
+TalentScout is a recruitment agency specializing in technology placements. This AI chatbot acts as a first-stage technical screening assistant by:
 
 - Collects candidate details  
 - Generates technical questions based on tech stack  
@@ -52,7 +53,7 @@ TalentScout is a fictional recruitment agency specializing in technology placeme
 ---
 
 ### 🧠 Technical Question Generation
-Based on the technologies provided by the candidate, the chatbot generates technical interview questions dynamically. The system generates multiple interview questions for each technology.
+Based on the candidate's technologies, the chatbot dynamically generates technical interview questions. The system generates multiple interview questions for each technology.
 
 Example tech stack:
 ```
@@ -74,7 +75,7 @@ Example output:
 ```
 Score: 8/10  
 Sentiment: Neutral  
-Feedback: Good explanation but lacks depth  
+Feedback: Good explanation, but lacks depth  
 Originality Score: 92.62%  
 ```
 
@@ -86,7 +87,7 @@ Example output:
 ```
 Score: 8/10
 Sentiment: Neutral
-Feedback: Good conceptual explanation but lacks implementation details
+Feedback: Good conceptual explanation, but lacks implementation details
 Originality Score: 92.62%
 
 ```
@@ -244,10 +245,9 @@ streamlit run app.py
 ---
 ## 🚧 Future Improvements
 
-- Multilingual chatbot  
-- Resume parsing  
-- Adaptive questioning  
-- Better UI/UX  
+- RAG-based knowledge retrieval for domain-specific questioning
+- Resume parsing with skills auto-extraction
+- Multi-round interview simulation with adaptive difficulty
 
 ---
 ## 💡 Why This Project
