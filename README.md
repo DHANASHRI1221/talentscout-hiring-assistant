@@ -106,24 +106,8 @@ Congratulations! You are moved to the next round.
 
 ## 🏗️ Architecture
 
-```
-User Interface (Streamlit)
-        │
-        ▼
-Conversation Manager
-        │
-        ▼
-Prompt Engineering Layer
-        │
-        ▼
-LLM (Groq API - Llama 3)
-        │
-        ▼
-Evaluation Engine
-        │
-        ▼
-Candidate Screening Decision
-```
+<img width="1530" height="1396" alt="image" src="https://github.com/user-attachments/assets/f0fbfd91-b2fb-4d94-8876-97ad9fef8755" />
+
 
 ---
 
