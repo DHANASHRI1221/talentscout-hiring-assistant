@@ -108,6 +108,11 @@ Congratulations! You are moved to the next round.
 
 <img width="1530" height="1396" alt="image" src="https://github.com/user-attachments/assets/f0fbfd91-b2fb-4d94-8876-97ad9fef8755" />
 
+### More Explanatory Structure of Project
+
+<img width="1530" height="1170" alt="image" src="https://github.com/user-attachments/assets/7446d782-18bb-4b64-a81f-d351dbe074a5" />
+
+
 
 ---
 
